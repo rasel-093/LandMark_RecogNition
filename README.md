@@ -1,6 +1,58 @@
-# Landmark_Recognition
-# Screenshots
+# 🏯 Landmark Recognition App (Asia)
 
-![Landmark_recognition1](https://github.com/rasel-093/LandMark_RecogNition/assets/117844325/1025bbd9-a591-4970-b94a-727657bb5c14)
-![Landmark_recognition3](https://github.com/rasel-093/LandMark_RecogNition/assets/117844325/2767e866-a9c0-4237-8448-264d80b13b46)
-![Landmark_recognition2](https://github.com/rasel-093/LandMark_RecogNition/assets/117844325/c5d1f357-6c2d-4b1a-bd1c-ecd68ccdaa3f)
+**Landmark Recognition** is an Android application built with **Kotlin** and **Jetpack Compose** that identifies popular landmarks across Asia using a machine learning model. Users can take a photo and the app will detect and display the name of the landmark.
+
+---
+
+## 📸 Features
+
+- 📷 Capture image
+- 🧠 Real-time ML-based landmark recognition (focused on Asian landmarks)
+- 🗺️ Displays the recognized landmark name
+- ⚡ Fast and intuitive user interface
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language**: Kotlin
+- **UI**: Jetpack Compose
+- **Architecture**: MVVM
+- **Machine Learning**: TensorFlow Lite model integration
+- **Image Handling**: CameraX
+
+---
+
+## 🌏 Landmark Coverage
+
+Currently supports recognition of major landmarks across Asian countries such as:
+- Taj Mahal (India)
+- Great Wall of China (China)
+- Petronas Towers (Malaysia)
+- Marina Bay Sands (Singapore)
+- Tokyo Tower (Japan)
+- and more...
+
+---
+
+---
+
+## 📸 Screenshots
+
+| Landmark 1 | Landmark 2 | Landmark 3 |
+|---------|--------------|--------------|
+| ![Landmark1](screenshots/screenshot1.jpg) | ![Landmark2](screenshots/screenshot2.jpg) | ![Landmark3](screenshots/screenshot3.jpg) |
+
+---
+
+## 📧 Contact
+
+**Md Rasel Rahman**  
+📍 Jashore, Bangladesh  
+📫 [LinkedIn](https://www.linkedin.com/in/rasel093/) | [GitHub](https://github.com/rasel-093)
+---
+
+## 🤖 Acknowledgements
+
+Special thanks to open-source machine learning datasets and models that made landmark recognition possible.
+
